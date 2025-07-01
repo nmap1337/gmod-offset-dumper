@@ -1,5 +1,9 @@
 # skibidiware.cc official dumper for Garry's Mod
 
+## Current Version: v0.1
+
+---
+
 ## Overview
 
 This project is a Garry's Mod (Source Engine) netvar dumper. It is designed to be injected as a DLL into Garry's Mod, where it will automatically dump all networked variables (netvars) to text files. The ImGui-based menu code is present but commented out, so the DLL acts as a pure dumper by default.
@@ -51,12 +55,6 @@ This project is a Garry's Mod (Source Engine) netvar dumper. It is designed to b
 
 This project is for educational and research purposes only. Use responsibly and only in environments where you have permission.
 
-## Thanks for reading!
-
-Star this project, thanks.
-
----
-
 ## Contact us
 
 - [Discord Server](https://discord.gg/zhQWEWBEqG)
@@ -65,3 +63,9 @@ Star this project, thanks.
 ## Support this project
 
 - [CloudTips](https://pay.cloudtips.ru/p/9efc03ba)
+
+## Thanks for reading!
+
+Star this project, thanks.
+
+---
