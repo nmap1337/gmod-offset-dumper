@@ -51,4 +51,17 @@ This project is a Garry's Mod (Source Engine) netvar dumper. It is designed to b
 
 This project is for educational and research purposes only. Use responsibly and only in environments where you have permission.
 
+## Thanks for reading!
+
+Star this project, thanks.
+
 ---
+
+## Contact us
+
+- [Discord Server](https://discord.gg/zhQWEWBEqG)
+- [Telegram](https://t.me/skibidiware_official)
+
+## Support this project
+
+- [CloudTips](https://pay.cloudtips.ru/p/9efc03ba)
